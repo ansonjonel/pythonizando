@@ -160,3 +160,5 @@ nombre_de_la_funcion = "averga"
 print "soy local:"
 print locals()[nombre_de_la_funcion]("Vitico Castillo")
 print locals()["averga"]("Facundo")
+print locals()["averga"]("pericles")
+
